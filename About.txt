@@ -1,0 +1,14 @@
+Git is a software where as git hub is a tool to host git
+
+they are tons of other stuff which are available on the market like github
+
+git helps us to track the software like games
+
+going back and fourth
+
+version control is a thing which is used to to do that
+which is tracking
+
+TERMINOLOGY OF GIT 
+Repository = folder
+
