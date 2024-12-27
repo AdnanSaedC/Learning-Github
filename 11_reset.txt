@@ -1,0 +1,4 @@
+to go back in the past
+git reset --hard hashCode
+
+get the hashCode from git log,git reflog
