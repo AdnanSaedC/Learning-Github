@@ -13,3 +13,6 @@ git branch
 u cant switch btwn branches before committing 
 and this stuff wont be available in differnt branche crazy right
 u will see the stuff of mian branch but vice versa not possible
+
+
+look now iam making some changes in this file from main branch
