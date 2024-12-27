@@ -19,4 +19,15 @@ to switch
 git switch branchName
 
 to create and go in one shot
-git switch -c branchName
+git switch -c branchName 
+
+
+to merge different branches
+git merge b1(now you are in main)
+
+after this the same file exist in both the place
+
+now something crazy is coming to the picture what if when you
+overwrite the content in two branches
+'
+and you have to call git merge everytime when you want to merge
