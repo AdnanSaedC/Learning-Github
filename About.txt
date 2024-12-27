@@ -23,3 +23,10 @@ The joutney of git
 
 git init->choose a working directory->git add(some another commands also available here)
 ->Staging area->commit->it reflect in repo(folder)->push->Saving in git hub
+
+no to add file in the staging area git add filename else
+git add .
+git restore --staged filename(To unstage files)
+
+git commit -m "mesage"
+to commit
