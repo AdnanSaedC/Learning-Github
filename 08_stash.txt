@@ -30,3 +30,6 @@ git stash pop
 
 to only drop
 git stash drop
+
+clear
+git stash clear

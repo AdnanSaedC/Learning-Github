@@ -12,6 +12,8 @@ a points to commited file
 and b points to not commited files
 
 git diff hashone..hashtwo
+git diff branchName..branchName2
+git diff branchName  branchName2
 to get hash apply git log --oneline
 
 Ex- git diff 3aea22c..a759811
