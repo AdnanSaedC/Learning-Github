@@ -1,0 +1,22 @@
+branches are nothing but deviation from main branch
+
+there is something called main and branches are deviation
+from main it can like client side hustle etc
+and the fun fact is that they do not effect each other
+
+head is nothing but something which points current branch which
+is nothing but top of the stack
+use git log --oneline to check the stuff
+
+to know branches
+git branch 
+
+
+to create one
+git branch branchName
+
+to switch 
+git switch branchName
+
+to create and go in one shot
+git switch -c branchName
