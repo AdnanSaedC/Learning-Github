@@ -10,3 +10,6 @@ what you commited and what you have not
 sometimes
 a points to commited file
 and b points to not commited files
+
+git diff hashone..hashtwo
+to get hash apply git log --oneline
