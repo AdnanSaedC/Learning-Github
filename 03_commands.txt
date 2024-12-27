@@ -2,3 +2,6 @@ porseline commands(the name is porseline because these
 commands provides high level of abstraction)
 like git add .
 git commit -m "message"
+
+gradening commands
+this commands low level commands you have do stuff manuallyh
