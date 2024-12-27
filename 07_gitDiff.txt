@@ -1,0 +1,12 @@
+Git diff
+is an informational command it doesnot add or commit
+anything like git log
+
+it tells the differnce between the two
+
+git diff --staged
+this will tell you the differnce between
+what you commited and what you have not
+sometimes
+a points to commited file
+and b points to not commited files

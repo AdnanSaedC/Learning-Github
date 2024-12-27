@@ -1,0 +1,5 @@
+To rename a branch 
+git branch -m oldName newName
+
+to delete a branch
+git branch -d branchName
