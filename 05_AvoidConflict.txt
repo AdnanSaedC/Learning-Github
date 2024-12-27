@@ -1,0 +1,2 @@
+to avoid conflict 
+git merge --abort
