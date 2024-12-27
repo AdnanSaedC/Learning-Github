@@ -12,3 +12,14 @@ which is tracking
 TERMINOLOGY OF GIT 
 Repository = folder
 
+ls -la to see hidden folders like git
+
+to to the folder in the terminal
+and type git init
+
+this will create a hidden folder which will track everything
+
+The joutney of git 
+
+git init->choose a working directory->git add(some another commands also available here)
+->Staging area->commit->it reflect in repo(folder)->push->Saving in git hub
