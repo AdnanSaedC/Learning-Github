@@ -3,3 +3,13 @@ this data belongs to b1
 just type git log --oneline
 
 you will see the difference
+
+press q for exit
+Strange i know
+
+to know in which branch you are in right now
+git branch
+
+u cant switch btwn branches before committing 
+and this stuff wont be available in differnt branche crazy right
+u will see the stuff of mian branch but vice versa not possible
