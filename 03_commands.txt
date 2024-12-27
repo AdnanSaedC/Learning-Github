@@ -4,4 +4,4 @@ like git add .
 git commit -m "message"
 
 gradening commands
-this commands low level commands you have do stuff manuallyh
+this commands low level commands you have do stuff manually
