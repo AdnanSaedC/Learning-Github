@@ -13,3 +13,5 @@ git branch
 u cant switch btwn branches before committing 
 and this stuff wont be available in differnt branche crazy right
 u will see the stuff of mian branch but vice versa not possible
+
+now maing changes from another branch apart from main
