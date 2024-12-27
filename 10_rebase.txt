@@ -1,0 +1,16 @@
+first lets understand what is rebase
+ok
+
+first you have developed a branch to write a function
+and at the same time some another developer is
+working on the main
+
+and they went on and now you want to link the newly
+created branch to main instead of joining
+them at the main we king of shift the base itself
+
+version1->branch1
+
+now version1->branch1,(version2->version3)
+now what we do here is
+now version1->,(version2->version3)->branch1
