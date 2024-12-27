@@ -41,3 +41,15 @@ git log
 
 u can use this with certain flags also like --oneline
 
+lets talk about gitIgnore
+it tell the computer which files and directory to be ignored
+This file usually have some sensitive info
+for example now i want the four named file to be ignored
+
+
+Git also ignores empty folder
+
+gitkeep
+we want some empty files to stored by git
+so we include .gitkeep files inside them like what 
+i have did here i  five Repository
