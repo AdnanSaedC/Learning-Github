@@ -1,0 +1,4 @@
+porseline commands(the name is porseline because these
+commands provides high level of abstraction)
+like git add .
+git commit -m "message"

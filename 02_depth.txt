@@ -1,0 +1,22 @@
+Git internal
+
+every commit gets an unique id which is AKA as sha id
+every hash is dependent on the previous one like
+linked list in stack
+
+this is how git works behind the scene
+everything in git is based on objects
+
+everytime when you make certain changes in git it stores 
+it like snapshot
+
+there are 3 pillars of git(please doble check ur understanding)
+1-commit(code at that time)
+2-tree(maintains the structure)
+3-blob(here it is the enetire code)
+
+this is the flow
+commit contains info about the tree
+which contains info about blob
+which contains info about the code(actual content)
+
