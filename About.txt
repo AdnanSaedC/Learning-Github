@@ -33,3 +33,11 @@ to commit
 
 
 you have to do this every time you make certain changes
+
+
+to know what you have did so far
+
+git log 
+
+u can use this with certain flags also like --oneline
+
