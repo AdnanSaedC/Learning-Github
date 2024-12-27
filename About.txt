@@ -30,3 +30,6 @@ git restore --staged filename(To unstage files)
 
 git commit -m "mesage"
 to commit
+
+
+you have to do this every time you make certain changes
