@@ -17,9 +17,3 @@ u will see the stuff of mian branch but vice versa not possible
 making changes from mian
 
 now maing changes from another branch apart from main
-
-
-
-
-
-now maing changes from another branch apart from main
