@@ -1,0 +1,32 @@
+its like switchationship
+you are not in the mood of commitment and 
+leaving both
+
+git stash 
+saves the work for temporary basis
+it works only after git add .
+
+to name that stash
+git stash save "Name"
+its like switchationship
+you are not in the mood of commitment and 
+leaving both
+
+git stash 
+saves the work for temporary basis
+it works only after git add .
+
+to name that stash
+git stash save "Name"
+
+to know all the list
+git stash list
+
+
+WIP-work in progress
+
+to apply and drop both the stash
+git stash pop
+
+to only drop
+git stash drop
