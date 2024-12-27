@@ -22,3 +22,5 @@ in the rebase branch okay
 
 now making changes for rebase2
 lets build that
+
+git reflog to see everything precisely
