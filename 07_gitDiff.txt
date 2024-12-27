@@ -13,3 +13,5 @@ and b points to not commited files
 
 git diff hashone..hashtwo
 to get hash apply git log --oneline
+
+Ex- git diff 3aea22c..a759811
