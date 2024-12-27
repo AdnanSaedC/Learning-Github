@@ -1,0 +1,7 @@
+tag is all about adding sticky notes
+
+git tag-to view
+git tag Adnan-to create
+
+to add message
+git tag -a newTagName -m "message"
