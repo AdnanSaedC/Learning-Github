@@ -1,1 +1,3 @@
 Hi from b2
+
+Hi after git being merged with main
